@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../taoWeb-common/taoWeb-common.iml" filepath="$PROJECT_DIR$/../taoWeb-common/taoWeb-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taoWeb-manager/taoWeb-entity/taoWeb-entity.iml" filepath="$PROJECT_DIR$/../taoWeb-manager/taoWeb-entity/taoWeb-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taoWeb-manager/taoWeb-manager.iml" filepath="$PROJECT_DIR$/../taoWeb-manager/taoWeb-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taoWeb-manager/taoWeb-mapper/taoWeb-mapper.iml" filepath="$PROJECT_DIR$/../taoWeb-manager/taoWeb-mapper/taoWeb-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taoWeb-parent.iml" filepath="$PROJECT_DIR$/taoWeb-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taoWeb-manager/taoWeb-service/taoWeb-service.iml" filepath="$PROJECT_DIR$/../taoWeb-manager/taoWeb-service/taoWeb-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taoWeb-manager/taoWeb-web/taoWeb-web.iml" filepath="$PROJECT_DIR$/../taoWeb-manager/taoWeb-web/taoWeb-web.iml" />
+    </modules>
+  </component>
+</project>
