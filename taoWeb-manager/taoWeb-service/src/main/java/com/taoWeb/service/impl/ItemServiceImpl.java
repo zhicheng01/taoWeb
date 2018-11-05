@@ -19,6 +19,7 @@ public class ItemServiceImpl implements ItemService {
     private TbItemMapper tbItemMapper;
 
     //查询所有商品,并进行分页处理,分页处理
+	//第二次提交
     @Override
     public EUDataGridResult resultList(int page, int rows) {
         //创建example对象
